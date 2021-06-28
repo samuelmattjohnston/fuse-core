@@ -75,7 +75,7 @@ links:
       name: LinkedIn
       show: false
       href: https://linkedin.com/in/samuel-johnston-34b722100/
-#       icon: fab fa-linkedin
+      icon: fab fa-linkedin
 #   - googleplus:
 #       name: Google+
 #       show: false
