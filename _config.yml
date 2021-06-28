@@ -73,7 +73,7 @@ links:
 #       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://linkedin.com/in/samuel-johnston-34b722100/
       icon: fab fa-linkedin
 #   - googleplus:
